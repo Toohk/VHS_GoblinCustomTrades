@@ -1,0 +1,30 @@
+{
+    "replace": true,
+    "trades": [
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:enchanted_golden_apple",
+        "count": 1
+      },
+      "secondary_payment_item": {
+        "item": "minecraft:emerald_block",
+        "count": 8
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 1000,
+      "enchantments": [
+        {
+          "id": "minecraft:fortune",
+          "level": 3
+        }
+      ]
+    }
+  ]
+
+}

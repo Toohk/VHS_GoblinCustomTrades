@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "trades": [
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+                "item": "minecraft:emerald",
+                "count": 64
+            },
+            "payment_item": {
+                "item": "minecraft:apple",
+                "count": 1
+            },
+            "price_multiplier": 0.0,
+            "max_trades": 24,
+            "experience": 20
+        }
+    ]
+}
